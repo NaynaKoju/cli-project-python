@@ -4,6 +4,23 @@
 #User Interaction: The code takes user input via the console to perform different database actions.
 #CSV File Integration: There's functionality to import users from a CSV file into the SQLite database.
 #Open console and type python user.py to run the code
+
+# 1. Install git
+# 2. create github acc and create new repository 
+# 3. Go to terminal/ cmd and write below commands
+
+# git config --global user.name "Nayna Koju"
+# git config --global user.email"kojunayna@gmail.com"
+
+# git init
+# git add .
+# git commit -m "Your commit msg"
+# copy paste git commands from github new repository
+# changes 
+# git add.
+# git commit -m "Add git tutorial codes"
+# git push origin
+
 import csv
 
 import sqlite3
