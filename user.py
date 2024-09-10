@@ -4,6 +4,7 @@
 #User Interaction: The code takes user input via the console to perform different database actions.
 #CSV File Integration: There's functionality to import users from a CSV file into the SQLite database.
 #Open console and type python user.py to run the code
+import csv
 
 import sqlite3
 
